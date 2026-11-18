@@ -1,0 +1,11 @@
+rank,player,latest_team,hp_balls,hp_matches,PV,resilience,consistency,score
+1.0,Ruturaj Gaikwad,Chennai Super Kings,245,20,50.481,54.991,0.789,2.334
+2.0,Naman Dhir,India,221,21,53.323,62.084,0.6,1.878
+3.0,Babar Azam,Pakistan,227,21,43.681,43.852,0.684,1.781
+4.0,Shashank Singh,Punjab Kings,330,34,41.773,25.426,0.69,1.61
+5.0,Rinku Singh,India,705,56,40.25,33.183,0.667,1.57
+6.0,Ashutosh Sharma,Delhi Capitals,313,27,29.282,34.881,0.69,1.419
+7.0,Quinton de Kock,Mumbai Indians,151,14,33.038,30.008,0.667,1.391
+8.0,Shreyas Iyer,India,442,40,38.593,28.511,0.625,1.371
+9.0,Suryakumar Yadav,Mumbai Indians,723,55,37.155,8.126,0.674,1.326
+10.0,Mark Chapman,New Zealand,303,22,32.76,29.227,0.591,1.149

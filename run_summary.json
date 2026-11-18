@@ -1,0 +1,45 @@
+{
+  "info": {
+    "notes": [
+      "Extras amounts not in file: wides/no-balls/byes/leg-byes estimated at 1 run each (validated against match margins: median error 1-2 runs per match).",
+      "Dropped 38 rows from innings >2 (super overs).",
+      "Excluded 34 rain-revised matches (4,433 balls)."
+    ],
+    "threshold": 39.82489384288746,
+    "n_balls": 196528,
+    "n_matches": 833
+  },
+  "schema": {
+    "match_id": "match_id",
+    "innings": "innings",
+    "over": "overid",
+    "seq": "innings_ball_num",
+    "extras2": "extras_2_runs",
+    "ball": null,
+    "batter": "striker_id",
+    "bowler": "bowler_id",
+    "player_out": "dismissed_player_id",
+    "runs_bat": "runs",
+    "extras": null,
+    "total_runs": null,
+    "wides": null,
+    "noballs": null,
+    "byes": null,
+    "legbyes": null,
+    "extra_type": "extras_type",
+    "is_wicket": "is_wicket",
+    "wicket_type": "dismissal_type"
+  },
+  "reliability": {
+    "bat": {
+      "mean": 0.16673390581622247,
+      "sd": 0.05643048064147387,
+      "n": 20
+    },
+    "bowl": {
+      "mean": 0.1067243888748585,
+      "sd": 0.05567304734574273,
+      "n": 20
+    }
+  }
+}

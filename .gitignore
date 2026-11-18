@@ -1,0 +1,5 @@
+.venv/
+__pycache__/
+outputs/
+# The RR data pack is proprietary: keep data/ out of any PUBLIC repo
+data/*.csv
