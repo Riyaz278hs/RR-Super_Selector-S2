@@ -3,7 +3,8 @@ from __future__ import annotations
 import itertools
 import pandas as pd
 import config
-from . import pressure, metrics
+from .SRC import metrics
+from .SRC import pressure
 
 
 def top10_stability(df, role, n=10, base_pctl=None):
