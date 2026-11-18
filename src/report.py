@@ -3,13 +3,13 @@ from __future__ import annotations
 import numpy as np, pandas as pd
 import matplotlib
 
-from .SRC import pressure
+from . import pressure
 matplotlib.use("Agg")
 import matplotlib.pyplot as plt
 from docx import Document
 from docx.shared import Pt, Inches
 import config
-from .SRC import metrics
+from . import metrics
 
 PINK, NAVY = "#EA1B85", "#0B1F4B"
 

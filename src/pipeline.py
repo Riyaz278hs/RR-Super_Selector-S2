@@ -3,8 +3,8 @@ from __future__ import annotations
 from pathlib import Path
 import pandas as pd
 import config
-from .. import loader
-from .SRC import metrics, pressure
+from . import loader
+from . import metrics, pressure
 
 
 def build_ball_table(bbb_path=None, raw=None, schema=None, data_dir=None, pi_weights=None, pctl=None):
